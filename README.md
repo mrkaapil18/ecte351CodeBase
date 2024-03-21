@@ -2,6 +2,15 @@
 
 # Ecte351 project description
 
+#team-members;
+1. Denis
+2. Ethan
+3. Oliver
+4. Iffat
+5. Kapil
+6. Arah
+
+
 ## Description
 Brief description of your project.
 
@@ -18,15 +27,15 @@ Brief description of your project.
 2. Provide examples if necessary.
 
 ## Links
-- [Link 1](https://example.com)
-- [Link 2](https://example.com)
+- [Project Proposal 1 :-> ](https://example.com)
+- [Project Proposal 2 :-> ](https://example.com)
 
-## Contributing
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature`)
-3. Make changes and commit them (`git commit -am 'Add feature'`)
-4. Push to the branch (`git push origin feature`)
-5. Create a pull request.
+## Using github....
+1. Install Git follow youtube...
+2. Create an account in github......(this folder{repo} is private so need to add to see)
+3. After Installing git.....
+4. Open Terminal or Command Prompt...
+  -  git clone 
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
