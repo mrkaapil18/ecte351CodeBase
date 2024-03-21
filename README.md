@@ -1,4 +1,4 @@
-<h1> Hello EveryOne </h1>
+<h1> Hello EveryOne welcome to Group14 Ecte351 </h1>
 
 # Ecte351 project description
 
