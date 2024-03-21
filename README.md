@@ -2,7 +2,7 @@
 
 # Ecte351 project description
 
-#team-members;
+## team-members;
 1. Denis
 2. Ethan
 3. Oliver
@@ -19,8 +19,7 @@ Brief description of your project.
 - need to decide
 - ...
 
-## Setting up the GitHub repo in your terminal
-## for macs
+
 
 ## Usage
 1. Describe how to use your project.
@@ -30,7 +29,10 @@ Brief description of your project.
 - [Project Proposal 1 :-> ](https://uowmailedu-my.sharepoint.com/:w:/g/personal/kv471_uowmail_edu_au/Ea-ekEjsWBpOlqdybwXP6_kBN-Veg6Tu87WzbkO6jAvHWg?e=bskCGr)
 - [Project Proposal 2 :-> ](https://uowmailedu-my.sharepoint.com/:w:/g/personal/kv471_uowmail_edu_au/EYgJPCCCVHNDgOAGBLFsfGQBrWbl1B-rXIVO-T0MYv0eUA?e=B9ZLbK)
 
-## Using github....
+
+
+## Setting up the GitHub repo in your terminal for macs
+
 1. Install Git follow youtube...
 2. Create an account in github......(this folder{repo} is private so need to add to see)
 3. After Installing git.....
@@ -41,6 +43,7 @@ Brief description of your project.
       -> git status
       -> git add .
       -> git commit -m "message"
+## more things coming soon
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the Group14, nameToBeDecided, all the codes and research is classified. Consequences might occur if any usage of codebase will be used without permission
