@@ -26,8 +26,8 @@ Brief description of your project.
 2. Provide examples if necessary.
 
 ## Links
-- [Project Proposal 1 :-> ](https://uowmailedu-my.sharepoint.com/:w:/g/personal/kv471_uowmail_edu_au/Ea-ekEjsWBpOlqdybwXP6_kBN-Veg6Tu87WzbkO6jAvHWg?e=bskCGr)
-- [Project Proposal 2 :-> ](https://uowmailedu-my.sharepoint.com/:w:/g/personal/kv471_uowmail_edu_au/EYgJPCCCVHNDgOAGBLFsfGQBrWbl1B-rXIVO-T0MYv0eUA?e=B9ZLbK)
+- [Project Proposal 1](https://uowmailedu-my.sharepoint.com/:w:/g/personal/kv471_uowmail_edu_au/Ea-ekEjsWBpOlqdybwXP6_kBN-Veg6Tu87WzbkO6jAvHWg?e=bskCGr)
+- [Project Proposal 2](https://uowmailedu-my.sharepoint.com/:w:/g/personal/kv471_uowmail_edu_au/EYgJPCCCVHNDgOAGBLFsfGQBrWbl1B-rXIVO-T0MYv0eUA?e=B9ZLbK)
 
 
 
