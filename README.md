@@ -1,8 +1,35 @@
 <h1> Hello EveryOne welcome to Group14 Ecte351 </h1>
 
-# Ecte351 project description
 
-## team-members;
+# Setting up the project....
+## make sure you all the installations done, via running following commands in terminal,
+
+- node -v
+- npm -v
+- git -v
+
+## if you can run this commands without any error, then you are good to go,,,,,
+
+- git clone https://github.com/mrkaapil18/ecte351CodeBase.git
+
+## make two new terminals, 
+### run the following commands in two different terminals
+#### first terminal,
+- cd frontend
+- npm run dev
+
+#### second terminal,
+- cd backend
+- npm run dev
+
+
+
+# Ecte351 project description
+This is the gitHub of the VisuaalAI, VisaalAI, is a cloudbased plarform, making life easier for the data science folks,.....
+
+
+
+## team-members; (Roles)
 1. Denis
 2. Ethan
 3. Oliver
@@ -17,7 +44,7 @@ Brief description of your project.
 ## planned Project ideas
 - need to decide
 - need to decide
-- ...
+- 
 
 
 
@@ -28,6 +55,10 @@ Brief description of your project.
 ## Links
 
 - [Project Proposal 1 Final](https://uowmailedu-my.sharepoint.com/:w:/g/personal/kv471_uowmail_edu_au/EUbzZHSdqh5HoPHxjOkQLcwBAge-qScVO5u0VjXfgzalzA?e=l6gbFL)
+
+- [more to come]()
+- [more to come]()
+- [more to come]()
 
 
 
@@ -44,6 +75,8 @@ Brief description of your project.
       -> git status
       -> git add .
       -> git commit -m "message"
+
+      
 ## more things coming soon
 
 ## License
